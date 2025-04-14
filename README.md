@@ -77,7 +77,7 @@ pyinstaller --onefile --noconsole --name "Phases Of Moon" --icon=Images/MoonIcon
 - Works only on Windows (due to global hotkey library `keyboard`).
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/e5b3ddea-fa11-458a-8c12-bc677e611e0f)
+![433377044-e5b3ddea-fa11-458a-8c12-bc677e611e0f-removebg-preview](https://github.com/user-attachments/assets/2d4084a7-0d5b-4c4a-957c-4b4ef1579736)
 
 
 
