@@ -63,6 +63,8 @@ python app.py
 - Right-click the tray icon → Set Phase Speed
 - Enter time (in seconds) between phase changes (minimum: `0.5` seconds)
 
+---
+
 ## Build Instructions
 
 To package as a standalone `.exe`, run:
@@ -71,17 +73,20 @@ To package as a standalone `.exe`, run:
 pyinstaller --onefile --noconsole --name "Phases Of Moon" --icon=Images/MoonIcon.ico --add-data "Images;Images" app.py
 ```
 
+---
+
 ## Notes
 
 - Images are bundled inside the `.exe` — no need to share separately.
 - Works only on Windows (due to global hotkey library `keyboard`).
 
+---
+
 ## Screenshots
 ![433377044-e5b3ddea-fa11-458a-8c12-bc677e611e0f-removebg-preview](https://github.com/user-attachments/assets/2d4084a7-0d5b-4c4a-957c-4b4ef1579736)
 
-
+---
 
 ## Author
 
-Kushal Ravindrakumar Gupta
-
+[Kushal Ravindrakumar Gupta](https://github.com/guptakushal03)
